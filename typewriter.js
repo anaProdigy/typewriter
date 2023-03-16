@@ -1,29 +1,4 @@
 const sentence = "hello there from lighthouse labs";
-// const typewriter = () => {
-//   let timer = 0;
-// for (const char of sentence) {
-
-//   setTimeout(() => {
-//     process.stdout.write(char);
-//   }, timer);
-//   timer += 50;
-// }
-//   setTimeout(() => {
-//     console.log("\n");
-//   }, timer);
-// };
-
-//typewriter(sentence);
-
-
-
-
-
-
-
-
-
-
 
 const typewriter = () => {
   let delay = 0;
